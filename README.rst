@@ -1,4 +1,3 @@
-Hellow World
 .. image:: https://raw.githubusercontent.com/pygame/pygame/main/docs/reST/_static/pygame_logo.svg
   :alt: pygame
   :target: https://www.pygame.org/
